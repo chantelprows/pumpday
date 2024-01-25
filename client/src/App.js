@@ -52,7 +52,7 @@ function App() {
   });
 
   const options = {
-    title: "Operating Load",
+    title: "Operating Load (hover to see machine state)",
     theme: 'material',
     curveType: "function",
     hAxis: {
